@@ -1,0 +1,6 @@
+/Users/ulisesvina/Projects/so/practica1/build/_deps/picotool/picotool
+/Users/ulisesvina/Projects/so/practica1/build/_deps/picotool/picotoolTargets.cmake
+/Users/ulisesvina/Projects/so/practica1/build/_deps/picotool/picotoolTargets-release.cmake
+/Users/ulisesvina/Projects/so/practica1/build/_deps/picotool/picotoolConfig.cmake
+/Users/ulisesvina/Projects/so/practica1/build/_deps/picotool/picotoolConfigVersion.cmake
+/Users/ulisesvina/Projects/so/practica1/build/_deps/picotool/enc_bootloader.elf
